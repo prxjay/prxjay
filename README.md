@@ -26,10 +26,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://prxjay.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
-
  <hr/>
  
 <h2 align="center">⚒️ My Stack ⚒️</h2>
@@ -42,6 +41,12 @@
     <h3>Database & Frameworks</h3>
         <img src="https://skillicons.dev/icons?i=bootstrap,firebase" />
 </div>
-
 <br/>
 <hr/>
+
+<h2 align="center">📊 My Stats 📊</h2>
+<div align="center">
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prxjay&show_icons=true&locale=en&layout=compact" alt="prxjay" /></p>
+<br/>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prxjay&" alt="prxjay" /></p>
+</div>
