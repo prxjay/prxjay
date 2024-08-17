@@ -32,7 +32,6 @@
  <hr/>
  
 <h2 align="center">⚒️ My Stack ⚒️</h2>
-<br/>
 <div align="center">
     <h3>Languages</h3>
         <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,javascript,react,mysql,nodejs" />
