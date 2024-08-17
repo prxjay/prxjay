@@ -37,7 +37,7 @@
     <h3>Languages</h3>
         <img src="https://skillicons.dev/icons?i=python,c,cpp,java,html,css,javascript,react,mysql,nodejs" />
     <h3>Technologies</h3>
-        <img src="https://skillicons.dev/icons?i=github,vscode,flutter,eclipse,ae,r" />
+        <img src="https://skillicons.dev/icons?i=github,vscode,flutter,eclipse,ae,r,matlab" />
     <h3>Database & Frameworks</h3>
         <img src="https://skillicons.dev/icons?i=bootstrap,firebase" />
 </div>
