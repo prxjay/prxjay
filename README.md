@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prawin!;" />
 </h1>
 
-<h3 align="center">A dedicated computer science student in my pre-final year with a passion for web development, cloud computing, and Flutter development!</h3>
+<h3 align="center">A dedicated computer science student in my pre-final year with a passion for web development, app development & cloud computing!</h3>
 
 <br/>
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Linkup (Full stack App)**
 
-- 🌱 I’m currently learning **Flutter App Development**
+- 🌱 I’m currently learning **AWS Cloud Practitioner & AWS Solution Architect**
 
 - 📝 I  write blogs on [Blogger](https://prawinjayakhar.blogspot.com/)
 
