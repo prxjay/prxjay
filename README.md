@@ -8,13 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prxjay&label=Visitors&color=0e75b6&style=flat" alt="prxjay" /> </p>
 
-- 🔭 I’m currently working on **Linkup (Full stack App)**
+- 🔭 I’m currently working on **Foodie Go (Flutter based Food Ordering App)**
 
 - 🌱 I’m currently learning **AWS Cloud Practitioner & AWS Solution Architect**
 
-- 📝 I  write blogs on [Blogger](https://prawinjayakhar.blogspot.com/)
+- 📝 I  write blogs on **[Blogger](https://prawinjayakhar.blogspot.com/)**
 
-- 📫 Reach out to me at: **prawinkrk@gmail.com**
+- 📫 Reach out to me at: **[prawinkrk@gmail.com](mailto:prawinkrk@gmail.com)**
 
 - ⚡ Fun fact: **The first ever computer mouse was made of wood!**
  
@@ -22,7 +22,7 @@
   <a href="mailto:prawinkrk@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://www.linkedin.com/in/prawin-jayakhar-b16185250/" target="_blank">
+  <a href="https://www.linkedin.com/in/prawin-jayakhar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://prxjay.github.io" target="_blank">
