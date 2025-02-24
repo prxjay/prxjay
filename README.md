@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prxjay&label=Visitors&color=0e75b6&style=flat" alt="prxjay" /> </p>
 
-- 🔭 I’m currently working on **Foodie Go (Flutter based Food Ordering App)**
+- 🔭 I’m currently working on **Restaurant Management System (Full-Stack Application)**
 
-- 🌱 I’m currently learning **AWS Cloud Practitioner & AWS Solution Architect**
+- 🌱 I’m currently learning **AWS Solution Architect**
 
 - 📝 I  write blogs on **[Blogger](https://prawinjayakhar.blogspot.com/)**
 
@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/prawin-jayakhar/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://prxjay.github.io" target="_blank">
+  <a href="https://prxjay.github.io/Portfolio/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
 </div>
