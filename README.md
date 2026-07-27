@@ -2,72 +2,104 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Prawin!;" />
 </h1>
 
-<h3 align="center">A Computer Science Engineering student at VIT Vellore, passionate about web development, cloud technologies & data-driven solutions!</h3>
+<h3 align="center">Software Developer building practical software across Cloud Computing, AI & Machine Learning.</h3>
 
 <br/>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=prxjay&label=Visitors&color=0e75b6&style=flat" alt="prxjay" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prxjay&label=Visitors&color=0e75b6&style=flat" alt="prxjay" />
 </p>
 
 ---
 
-### 🔭 What I’m working on
-- **Food Link** → A platform connecting food donors with NGOs/volunteers (HTML, CSS, JS, PHP, MySQL → revamping into MERN stack).
+## 🚀 About Me
 
-### 🌱 What I’m learning
-- **Advanced Cloud Computing & AWS**  
-- **Machine Learning & YOLO-based Computer Vision models**
+- 🎓 **Computer Science Engineering Graduate** from VIT Vellore
+- ☁️ **AWS Certified Cloud Practitioner**
+- 💻 **Building practical software** across Cloud Computing, Artificial Intelligence & Machine Learning
+- 🚀 **Passionate about creating** intelligent, scalable, and real-world applications
 
 ---
 
-<h2 align="center">⚒️ My Tech Stack ⚒️</h2>
+## 🛠️ What I'm Building Right Now
+
+| ☁️ AI Terraform Security Reviewer | 🩺 Epidemic Outbreak Prediction |
+| :--- | :--- |
+| AI-powered Terraform security reviewer built with AWS Bedrock, RAG, Lambda & GitHub PR automation. | Machine learning system predicting epidemic outbreaks using spatio-temporal healthcare and environmental data. |
+
+---
+
+<h2 align="center">⭐ Featured Projects ⭐</h2>
+
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :---: |
+| 🤖 **Kaido AI** | AI-powered voice & text reminder assistant for Telegram & Discord | `Python` `Groq Whisper` `LLM` | [Repo](https://github.com/prxjay/Kaido-AI) |
+| 🔬 **Thyroid Detection** | Real-time Thyroid Nodule Detection & ACR TI-RADS Risk Grading | `YOLOv8` `GradCAM` `Streamlit` | [Repo](https://github.com/prxjay/Thyroid-Nodule-Detection-YOLOv8) |
+| 🍕 **UrbanEats** | Modern full-stack food delivery platform with live tracking & admin dashboard | `React` `Supabase` `JS` | [Repo](https://github.com/prxjay/UrbanEats) |
+| 💳 **FinanceTracker** | Full-stack personal finance & transaction tracking app | `MERN` `TypeScript` `Clerk` | [Repo](https://github.com/prxjay/FinanceTracker-MERN) |
+| 🍲 **FoodLink** | Platform connecting food donors with NGOs to reduce food wastage | `PHP` `MySQL` `JS` | [Repo](https://github.com/prxjay/FoodLink) |
+
+---
+
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
+
 <div align="center">
 
-<h3>Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=python,c,cpp,php,html,css,javascript" />
+### Programming Languages
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css,php,mysql" />
 
-<h3>Frameworks, Databases & Cloud</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,mysql,firebase,bootstrap,aws" />
+### Frameworks & Databases
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,supabase" />
 
-<h3>ML & Tools</h3>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,ae,pr,matlab" />
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,git,github,vercel" />
+
+### Tools & Creative
+<img src="https://skillicons.dev/icons?i=figma,vscode,pr,ae" />
+
 <br/>
-<b>+ YOLO (Object Detection), Computer Vision</b>
+
+**AI / ML:** YOLOv8 • Computer Vision • RAG • AWS Bedrock
 
 </div>
 
 ---
 
-<h2 align="center">🏆 Achievements</h2>
+<h2 align="center">🏆 Achievements & Experience</h2>
 
-- Secured **Top 5** in IEEE ComSoc’s Connectron 36-hour Hackathon by building sustainable web solutions.  
-- ☁️ Earned **AWS Certified Cloud Practitioner** (July 2025).  
+- 🥇 Secured **Top 5** out of 45+ teams in IEEE ComSoc’s Connectron 36-hour Hackathon.
+- ☁️ **AWS Certified Cloud Practitioner** (July 2025).
+- 💼 **IT & Digital Transformation Intern** at Saint-Gobain (SEFPRO).
+- 👥 **Co-Secretary** | Visual Bloggers Club (Led 12+ events with 500+ attendees).
 
 ---
 
-<h2 align="center">📫 Connect with me</h2>
+<h2 align="center">📫 Connect With Me</h2>
+
 <div align="center">
-  <a href="mailto:prawinkrk@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/prawin-jayakhar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://prxjay.github.io/Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
-  </a>
+
+<a href="mailto:prawinkrk@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prawin-jayakhar/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://prawinjayakhar.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 </div>
 
 ---
 
-<h2 align="center">📊 My GitHub Stats 📊</h2>
+<h2 align="center">📊 GitHub Stats 📊</h2>
+
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=prxjay&show_icons=true&theme=tokyonight" alt="Prawin's GitHub stats" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api?username=prxjay&show_icons=true&theme=tokyonight" height="180em"/>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prxjay&layout=compact&theme=tokyonight" alt="Top Languages" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prxjay&layout=compact&theme=tokyonight" height="180em"/>
 
 </div>
