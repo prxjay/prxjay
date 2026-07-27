@@ -96,10 +96,8 @@
 
 <h2 align="center">📊 GitHub Stats 📊</h2>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prxjay&show_icons=true&theme=tokyonight" height="180em"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prxjay&layout=compact&theme=tokyonight" height="180em"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=prxjay&show_icons=true&theme=tokyonight" alt="Prawin's GitHub Stats" height="170" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prxjay&layout=compact&theme=tokyonight" alt="Top Languages" height="170" />
+</p>
